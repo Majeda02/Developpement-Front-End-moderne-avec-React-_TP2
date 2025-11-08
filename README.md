@@ -1,71 +1,40 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### "# Developpement-Front-End-moderne-avec-React-_TP2" 
 
-## Available Scripts
+#### Objectif
+Ce TP guide pas à pas la mise en œuvre des notions suivantes :
+  * Gestion de l’état local avec useState
+  * Gestion des événements onClick, onChange et onSubmit
+  * Formulaires contrôlés
+  * Utilisation simple de useEffect
+  * Respect du flux unidirectionnel des données
 
-In the project directory, you can run:
+#### Étape 1: Création du projet React  tp-state 
+<img width="959" height="503" alt="TP2REACT _ Etape01" src="https://github.com/user-attachments/assets/00141c8b-ed93-406c-a0da-cb37f657e4f4" />
+<img width="959" height="503" alt="TP2REACT _ Etape02" src="https://github.com/user-attachments/assets/9117ec30-024e-4b2b-8c40-abf598c1e66c" />
+<img width="959" height="475" alt="TP2REACT _ Etape03" src="https://github.com/user-attachments/assets/973f76ed-dff6-4aca-82dd-44b3348f3bc8" />
 
-### `npm start`
+#### Étape 2: Création d'un composant Compteur simple avec useState (Compteur.js)
+<img width="959" height="478" alt="TP2REACT _ Etape04" src="https://github.com/user-attachments/assets/99b3394d-38dd-4307-b196-0b2b88082cd4" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Étape 3 : Création d'composant MessageBouton avec événement onClick (MessageBouton.js)
+<img width="959" height="479" alt="TP2REACT _ Etape05" src="https://github.com/user-attachments/assets/b7026b65-f555-4d0a-ab87-26dc43f4f434" />
 
-### `npm test`
+#### Étape 4 : création d'un Formulaire contrôlé (FormulaireNom.js)
+<img width="959" height="481" alt="TP2REACT _ Etape06" src="https://github.com/user-attachments/assets/dcf55f95-94ee-4b60-b9a2-4b934d8f9441" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Étape 5 : Ajouter d'un compteur avec useEffect (CompteurEffet.js)
+<img width="959" height="476" alt="TP2REACT _ Etape07" src="https://github.com/user-attachments/assets/9425baa5-b0fe-4fd7-99d3-9bb22e7bffb8" />
 
-### `npm run build`
+#### Étape 6 : Exercices pratiques
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ ##### Exercice 1 : Affichage dynamique
+ <img width="959" height="478" alt="TP2REACT _ Etape08 ex1" src="https://github.com/user-attachments/assets/d3bac0aa-f499-4480-8e97-9ecdd246aac3" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ ##### Exercice 2 : Formulaire d’inscription
+<img width="1919" height="533" alt="image" src="https://github.com/user-attachments/assets/e280bb56-1eda-46a7-aac3-8111e19b1777" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ ##### Exercice 3 : Compteur avec effet personnalisé
+<img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/0c33a974-a668-4c0a-aa76-3f8630d6f671" />
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Developpement-Front-End-moderne-avec-React-_TP2" 
